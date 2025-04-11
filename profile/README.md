@@ -1,6 +1,6 @@
 # DGK Law and Cognition
 
-Welcome to the **DGK Law and Cognition** GitHub organization, managed by David G. Kamper. Our organization integrates cognitive neuroscience, computational cognitive science, and legal scholarship to explore the cognitive underpinnings of legal decision-making across multiple domains of law, including intellectual property, constitutional law, and tort.
+Welcome to the **DGK Law and Cognition** GitHub organization at UCLA, managed by David G. Kamper. This organization integrates David's work in cognitive neuroscience, computational cognitive science, and legal scholarship to explore the cognitive underpinnings of legal decision-making across multiple domains of law, including intellectual property, constitutional law, and tort.
 
 ## About David G. Kamper
 
