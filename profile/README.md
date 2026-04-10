@@ -1,10 +1,10 @@
 # DGK Law and Cognition
 
-Welcome to the **DGK Law and Cognition** GitHub organization at UCLA, managed by David G. Kamper. This organization integrates David's work in cognitive neuroscience, computational cognitive science, and legal scholarship to explore the cognitive underpinnings of legal decision-making across multiple domains of law, including intellectual property, constitutional law, and tort.
+Welcome to the **DGK Law and Cognition** GitHub organization at UCLA and the Unviersity of Chicago Law School, managed by David G. Kamper. This organization integrates David's work in cognitive neuroscience, computational cognitive science, and legal scholarship to explore the cognitive underpinnings of legal decision-making across multiple domains of law, including intellectual property, constitutional law, and tort.
 
 ## About David G. Kamper
 
-David G. Kamper is a PhD student in cognitive neuroscience and computational cognitive science at the University of California, Los Angeles (UCLA), where he works in the [Reasoning Lab](https://reasoninglab.psych.ucla.edu/) advised by Keith Holyoak, Hongjing Lu, and Patricia Cheng. He collaborates with [Craig Fox](https://www.craigrfox.com/) and [Jaime Castrellon](https://www.castrellonlab.psych.ucla.edu/). David will also formally begin law school in Fall 2026 and is supported as an NSF GRFP Fellow.
+David G. Kamper is a PhD student in cognitive neuroscience and computational cognitive science at the University of California, Los Angeles (UCLA), where he works in the [Reasoning Lab](https://reasoninglab.psych.ucla.edu/) advised by Keith Holyoak, Hongjing Lu. He collaborates with [Jaime Castrellon](https://www.castrellonlab.psych.ucla.edu/), [Craig Fox](https://www.craigrfox.com/),, and [Idan Blank](https://www.psych.ucla.edu/faculty-page/iblank/). David is a David M. Rubenstein Scholar at UChicago Law and is supported as an NSF GRFP Fellow.
 
 ## Mission
 
@@ -28,7 +28,7 @@ Our research investigates how moral cognition informs legal judgments and the co
 - Behavioral and computational modeling of moral intuitions in legal contexts.
 
 ### 4. Computational Cognitive Modeling
-Using computational models, we analyze how social networks and individual cognition shape the development of legal norms, intellectual property standards, and ethical frameworks across diverse legal contexts.
+Using computational models, we analyze how social networks and individual cognition shape the development of legal norms, intellectual property and general property standards, and ethical frameworks across diverse legal contexts.
 
 ### 5. Data Science and Legal Cognition
 We employ data-driven approaches to study naturalistic behaviors related to legal decision-making, creativity assessments, normative developments in intellectual property, and broader legal cognition phenomena.
