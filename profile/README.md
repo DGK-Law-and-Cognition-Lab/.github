@@ -46,8 +46,6 @@ David maintains active collaborations with:
 - [The Perception, Cognition, and Action Lab](https://research.clps.brown.edu/songlab/index.html) at Brown University (Dr. Joo-hyun Song)
 - [Causal Cognition Lab](https://causalcognitionlab.com/) at University College London (Dr. David Lagnado)
 - [MADLAB](https://kenan.ethics.duke.edu/mad-lab/) at Duke University (Dr. Walter Sinnott-Armstrong)
-- [Mind at Large Lab](https://scholars.duke.edu/person/Paul.Seli) at Duke University (Dr. Paul Seli)
-- Center for the Science of Moral Understanding, University of North Carolina, Chapel Hill
 
 ## Repository Structure
 Repositories in this organization typically include:
